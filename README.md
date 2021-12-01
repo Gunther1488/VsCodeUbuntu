@@ -1,0 +1,2 @@
+# VsCodeUbuntu
+Trying to understand
